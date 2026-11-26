@@ -33,7 +33,6 @@ On the native side, I build Android apps in Kotlin with Jetpack Compose.
 | App | |
 |-----|---|
 | **SOLIX ERP** | Enterprise ERP for large companies, built with Flutter Web and Server-Driven UI |
-| [**Onyx Mobile**](https://play.google.com/store/apps/details?id=ultimate.com.onyxix) | The mobile side of the ERP, delivered as stand-alone apps for large companies |
 | [**StreamGhar**](https://play.google.com/store/apps/details?id=com.streamghar.live) · [**Finex Chat**](https://play.google.com/store/apps/details?id=com.finex.chat.live) | Social apps with live voice rooms, real-time chat, gifts, in-room games and a wallet |
 | [**Dragon Chat**](https://play.google.com/store/apps/details?id=com.dragonchat.app) · [**SMO**](https://play.google.com/store/apps/details?id=com.smolive.chat) | Messaging and live-room apps with real-time chat |
 | [**IAM Jr**](https://apps.apple.com/eg/app/iam-jr/id6717590436) | Student app with secure sign-in and push notifications |
